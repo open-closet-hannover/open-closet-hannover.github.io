@@ -1,0 +1,26 @@
+---
+layout: page-en
+---
+
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{{ page.title }}</title>
+        <link rel="stylesheet" href="/assets/css/style.css">
+    </head>
+    <body>
+        {% include header-en.html %}
+        <div class="main">
+            <h1 class="lead-header">
+                {{ page.title }}
+            </h1>
+            <section>
+                {{ content }}
+            </section>
+        </div>
+    </body>
+</html>
+
+{% include footer.html %}
