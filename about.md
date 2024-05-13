@@ -13,4 +13,5 @@ Du kannst bei uns Hilfsmittel ausprobieren. Hilfsmittel können zum Beispiel sei
 Es kann schwierig sein, solche Hilfsmittel zu bekommen. Noch schwieriger ist es zu wissen, welche Größe gut passt. Oder welches Hilfsmittel gut passt. Deshalb gibt es im Queerpunkt Hilfsmittel. Dort kannst du sie ausprobieren. Der Queerpunkt ist in Hannover. Du kannst die Hilfsmittel immer zu unseren Öffnungszeiten anprobieren. Die Öffnungszeiten findest du hier. Du kannst uns auch schreiben, wenn du lieber allein kommen möchtest. Oder nur mit Menschen, die du schon kennst. Dann finden wir einen Termin. Unsere Email-Adresse ist [info@open-closet.org](mailto:info@open-closet.org).
 
 Wir sind dort und helfen dir. Du kannst mit uns über die Hilfsmittel sprechen.  Wenn du Fragen hast, komm zu uns. Vielleicht können wir dir helfen. Wir sammeln auch Spenden. Vielleicht hast du ein Produkt, das du nicht brauchst. Dann kannst du uns das gern geben. Wir legen es dann in den Queerpunkt. Dann können andere Menschen es ausprobieren.
+
 Gefördert durch @4generationde
