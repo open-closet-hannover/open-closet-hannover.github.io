@@ -1,1 +1,0 @@
-Website of Open Closet Hannover

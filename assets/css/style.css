@@ -114,3 +114,7 @@ a {
 img {
     max-width: 100%;
 }
+
+p {
+    font-size: larger;
+}

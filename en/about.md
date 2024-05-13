@@ -3,23 +3,13 @@ layout: page-en
 title: About
 ---
 
-We open the closet for you!
-A closet for all QTINA\* people. These are people who are trans\*, for example. Or inter\*. Or non-binary. Or agender. Or who are not sure yet.
+We open the closet for you! A closet for all TINAQ\* people. These are people who are trans\*, for example. Or inter\*. Or non-binary. Or agender. Or who are not sure yet.
 
-You can try out tools with us. Tools can be for example: tucking underwear, packers, binders, breast prostheses.
-Tools can make life easier for inter\*, trans\* and non-binary people.
-You can come by. You can try things out. You don’t have to be trans\* for that. Or know what QTINA\* means. You are very welcome.
+You can try out gear with us. Gear can be for example: tucking underwear, packers, binders, breast prostheses. Gear can make life easier for inter\*, trans\* and non-binary people. You can come by. You can try things out. You don’t have to be trans\* for that. Or know what TINAQ\* means. You are very welcome.
 
-It is difficult to get such tools. It’s even harder to know what size fits well. Or which tool fits well.
-That’s why there are supposed to be tools at Queerpunkt. You can try them out there soon.
-The Queerpunkt is in Hanover.
-You will find more information here soon. There we will write when you can come to Queerpunkt. And how you can try out the tools there. Feel free to follow us for more info.
+It can be difficult to get such gear. It can be hard to know what size fits well. Or which gear fits well. That’s why there is gear at Queerpunkt. You can try it out there. The Queerpunkt is in Hanover. You can try on the gear at our opening times. You can find it here. You can also contact us, if you prefer to come alone. Or together with people you know. We can find an appointment. Our email adress is [info@open-closet.org](mailto:info@open-closet.org).
 
-We will be there and help you. You can talk to us about the tools.
-
-We’re gathering information. If you have questions, come to us. Maybe we can help you.
-
-There will also be craft days. Some of the tools you can make by yourself. We want to learn that together.
+We will be there and help you. You can talk to us about the gear. If you have questions, come to us. Maybe we can help you.
 
 We also collect donations. Maybe you have a product that you don’t need. Then you can give it to us. We will put it in the Queerpunkt. Then other people can try it out.
 
