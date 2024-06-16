@@ -3,14 +3,7 @@ layout: page-en
 title: Appointments
 ---
 
-**June 16th: Opening time**<br>
-11:00-13:00. At Queerpunkt, Kornstraße 32.
-
-**June 5th: opening time with Young Friends**<br>
-18:00-20:00. At Queerunity, Königsworther Straße 13.<br>
-For trans\* people under 27.
-
-**June 17th: Physio workshop with Judith from FYN Atheletes**<br>
+**June 17th: Physio workshop with Judith from FYN Atheletes CANCELED**<br>
 15:15-18:45. At queeres Wohnzimmer ("queer living room") at the city library, Hildesheimer Str. 12.
 
 The workshop will take part in German. The rooms are wheelchair-accessible. The barrier-reduced toilets are binary gendered.
@@ -31,3 +24,19 @@ In the practical part, we will explore various exercises together in order to co
 Workshop leader: [Judith from FYN ATHLETES](https://www.instagram.com/fyn_athletes?igsh=ZnJjNHNidGVrOGxk) - physiotherapist and personal trainer
 
 Registration at [info@open-closet.org](mailto:info@open-closet.org).
+
+**June 23: Make-up workshop with Obara**
+
+In this workshop we want to break down fears of contact and try things out together. There will be an informative part and a practical part.
+
+There will be some material, but if you already have make-up, feel free to bring it with you.
+
+It is ok if you have no experience with make-up or if you already have some experience.
+
+The workshop will be led by Obara, a young trans woman. She has been using make-up since she was 12 years old so she already has a lot of experience and is happy to pass on her knowledge.
+
+The workshop is free and takes place on 23.06.24 from 14-17 o'clock in the cultural center Pavillon (Listermeile 4, 30161 Hannover).
+
+The room is wheelchair accessible and there are accessible toilets.
+
+Registrations under: [info@open-closet.org](mailto:info@open-closet.org).

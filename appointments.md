@@ -3,14 +3,7 @@ layout: page
 title: Termine
 ---
 
-**16. Juni: Öffnungszeit**<br>
-11:00-13:00. Im Queerpunkt, Kornstraße 32.
-
-**05. Juni: Öffnungszeit mit Young Friends**<br>
-18:00-20:00. Im Queerunity, Königsworther Straße 13.<br>
-Für trans* Menschen unter 27.
-
-**17. Juni: Physio Workshop mit Judith von FYN Athletes**<br>
+**17. Juni: Physio Workshop mit Judith von FYN Athletes ABGESAGT**<br>
 15:15-18:45. Im queeren Wohnzimmer der Stadtbibliothek, Hildesheimer Str. 12.
 
 Der Workshop wird in deutscher Lautsprache stattfinden. Die Räume sind mit einem Rollstuhl zugänglich. Die barrierereduzierten Toiletten sind leider binär gegendert.
@@ -30,3 +23,19 @@ Im praktischen Teil erkunden wir zusammen verschiedene Übungen, um den Auswirku
 Workshop-Leitung: [Judith von FYN ATHLETES](https://www.instagram.com/fyn_athletes?igsh=ZnJjNHNidGVrOGxk) - Physiotherapeut\*in und Personal Trainer\*in
 
 Anmeldung bei [info@open-closet.org](info@open-closet.org).
+
+**23. Juni: Make-Up Workshop mit Obara**
+
+Wir wollen in dem Workshop gemeinsam Berührungsängste abbauen und ins ausprobieren kommen. Es wird einen informativen Teil und einen praktischen Teil geben.
+
+Es wird etwas Material da sein, aber falls du schon Make-up hast bring es gerne mit.
+
+Es ist ok wenn du noch keine Berührungspunkte mit Make-up hast oder schon Erfahrung hast.
+
+Der Workshop wird von Obara, einer jungen Trans Frau geleitet. Sie benutzt Make-up seit sie 12 Jahre alt ist daher hat sie schon einiges an Erfahrung und freut sich ihr können weiter zugeben.
+
+Der workshop ist kostenlos und findet am 23.06.24 von 14-17 Uhr im Kulturzentrum Pavillon (Listermeile 4, 30161 Hannover) statt.
+
+Der Raum ist mit einem Rollstuhl erreichbar und es gibt Barrierearme Toiletten.
+
+Anmeldungen unter: [info@open-closet.org](mailto:info@open-closet.org).
