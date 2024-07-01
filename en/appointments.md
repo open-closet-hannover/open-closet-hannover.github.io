@@ -3,40 +3,37 @@ layout: page-en
 title: Appointments
 ---
 
-**June 17th: Physio workshop with Judith from FYN Atheletes CANCELED**<br>
-15:15-18:45. At queeres Wohnzimmer ("queer living room") at the city library, Hildesheimer Str. 12.
+**July 18th: Turtle Touch - Slow Embodied Pleasure Work/Playshop 4 Queers**
 
-The workshop will take part in German. The rooms are wheelchair-accessible. The barrier-reduced toilets are binary gendered.
+When: July 18, 2024 from 6 - 9 p.m.
 
-15:15 Part 1: Everyday movement
-for TINAQ\* (trans\*, inter\*, nonbinary, agender, questioning)<br>
+Where? will be announced
 
-The first part of the workshop is about getting to know a sensible approach to physical activity in everyday life. The basis is a keynote speech on our body and its functions, common (mis)assumptions about posture and pain, as well as insights into the positive effect of movement on all areas of our life and being.
+Open to queer bodies aged 18 and over 🙂
 
-This is followed by examples, tips and tricks for practical implementation in often stressful everyday life. Are you wondering how you can integrate more movement into your everyday life? And especially in what form? In the practical part, which invites you to try out exercises yourself, you will find answers to these questions.
+Slowly, like a turtle, we move towards the edges of our comfort zones: out of curiosity and wanderlust, to expand our own boundaries.
 
-17:15 Part 2: Body knowledge and excercises for people who wear binders
+Slow Embodied Pleasure means a slow, shared approach and feeling our way towards what we want, what is good for us, what we want to share with each other through our gaze and touch. We explore self-touch and ways to come into contact with each other in a mindful and pleasurable way. This is not about sexual arousal but about pleasurable contact with ourselves and other bodies.
 
-In the second part of the workshop, we will look specifically at the topic of "wearing a binder". What happens when the rib cage is constantly subjected to strong compression? How does this potentially affect the body's functions? These and other questions will be explored in the keynote speech in order to provide participants with a knowledge base for practical implementation.
+With playful methods and the invitation to dare to do something new, we move out of our shells.
 
-In the practical part, we will explore various exercises together in order to counteract the effects of wearing binders. Questions and issues raised by the participants can also be addressed in a needs-oriented manner.
+This work/playshop is a sex-positive space in the sense that all sexualities on the spectrum are invited - people who locate themselves on the ace-spectrum are expressly invited. This work/playshop is not an explicitly sexual space. All participants are clothed at all times. There will be awareness agreements for the space, which all participants agree to with their registration.
 
-Workshop leader: [Judith from FYN ATHLETES](https://www.instagram.com/fyn_athletes?igsh=ZnJjNHNidGVrOGxk) - physiotherapist and personal trainer
+Participation is free of charge. The workshop can be held in German and English.
 
-Registration at [info@open-closet.org](mailto:info@open-closet.org).
+Accessibility information about the space will follow
 
-**June 23: Make-up workshop with Obara**
+Registration via the link: [tinyurl.com/turtletouch](tinyurl.com/turtletouch).
+Further information will be available after registration!
 
-In this workshop we want to break down fears of contact and try things out together. There will be an informative part and a practical part.
+Come with Care and Curiosity!
 
-There will be some material, but if you already have make-up, feel free to bring it with you.
+About me:
 
-It is ok if you have no experience with make-up or if you already have some experience.
+Jespa (none/ jespa/they; white-bodied, mostly able bodied)
+Assigned fabulous at birth, neuro-spicy. I research shame, masculinities and queer temporality and the connections between the human and non-human worlds.  Inspired by a love of movement, touch and constant change.
+I am certified in Sexological Bodywork (ISB Berlin). Besides queer and trans-focused bodywork, I am also part of the artistic direction of the "Bonanzafest Cologne - Festival for trans and non-binary art and performance" in Cologne and the HOTHOTHOT_collective for the exploration of queer erotics with the non-human world.
 
-The workshop will be led by Obara, a young trans woman. She has been using make-up since she was 12 years old so she already has a lot of experience and is happy to pass on her knowledge.
-
-The workshop is free and takes place on 23.06.24 from 14-17 o'clock in the cultural center Pavillon (Listermeile 4, 30161 Hannover).
-
-The room is wheelchair accessible and there are accessible toilets.
-
-Registrations under: [info@open-closet.org](mailto:info@open-closet.org).
+Jespa (none/ jespa/they; white-bodied, mostly able bodied)
+Assigned fabulous at birth, neuro-spicy. I research shame, masculinities and queer temporality and the connections between the human and non-human worlds.  Inspired by a love of movement, touch and constant change.
+I am certified in Sexological Bodywork (ISB Berlin). Besides queer and trans-focused bodywork, I am also part of the artistic direction of the "Bonanzafest Cologne - Festival for trans and non-binary art and performance" in Cologne and the HOTHOTHOT_collective for the exploration of queer erotics with the non-human world.
