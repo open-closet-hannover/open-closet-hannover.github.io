@@ -4,3 +4,5 @@ title: Appointments
 ---
 
 Opening times: every 4th Friday, 18:00 - 20:00
+
+Address: Kornstr. 32, 30167, Hannover
