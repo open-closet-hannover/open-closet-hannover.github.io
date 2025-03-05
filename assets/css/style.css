@@ -1,5 +1,6 @@
 :root {
     --link-color: #4d0d99;
+    --border-color: #141a71;
 }
 
 body {
@@ -32,10 +33,10 @@ body {
     font-size: larger;
     text-align: center;
     margin: 0;
+    font-size: 140%;
 }
 
 .closet {
-    max-width: 80%;
     margin: 24px auto;
 }
 
@@ -51,6 +52,10 @@ a {
 
 .nav a {
     text-decoration: none;
+}
+
+.home-link {
+    font-weight: bold;
 }
 
 .social-link img {
@@ -129,4 +134,9 @@ footer {
     margin: 16px;
     width: 412px;
     aspect-ratio: 3.328638498;
+}
+
+hr {
+    border: 1px solid var(--border-color);
+    margin: 0 16px;
 }
