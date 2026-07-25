@@ -19,6 +19,30 @@ body {
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    margin-top: 16px;
+}
+.maingrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 16px;
+    /* Needed to backfill alternating rows. */
+    grid-auto-flow: dense;
+}
+
+.maingrid p {
+    font-size: 140%;
+    text-align: end;
+}
+
+
+/*
+Swap the order for every other row. start with the second row (item 3), then skip one row
+(item 5), then match a row (item 7), then skip a row (9, 10), then match the row (11)
+*/
+.maingrid p:nth-child(4n+3) {
+    text-align: start;
+    grid-column-start: 2;
 }
 
 .lead-header {
@@ -30,8 +54,6 @@ body {
 }
 
 .hero-text {
-    font-size: larger;
-    text-align: center;
     margin: 0;
     font-size: 140%;
 }
@@ -132,6 +154,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 8px;
 }
 
 .sponsor-logo {
