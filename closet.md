@@ -69,12 +69,12 @@ Es gibt unterschiedliche Packer:
 
 <!-- BHs -->
 <h2>BHs und Brustprothesen</h2><a id="BH"></a>
-Binder bla bla
+TBD
 
 <!-- Perücken -->
 <h2>Perücken</h2><a id="Perücken"></a>
-Binder bla bla
+TBD
 
 <!-- other -->
 <h2>weitere Produkte</h2><a id="other"></a>
-Binder bla bla
+TBD
