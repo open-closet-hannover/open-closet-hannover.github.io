@@ -1,14 +1,18 @@
 :root {
     --link-color: #4d0d99;
     --border-color: #141a71;
+    --organic: 255px 15px 225px 15px/15px 225px 15px 255px;
+    --dark-purple: #240428;
+    --lightpink:  #ddb6e4;
+
+    --main-font-color: var(--dark-purple);
+    --main-content-color: var(--lightpink);
 }
 
 body {
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-
-    /* background: linear-gradient(45deg, #d48bff, rgb(150, 88, 201)); */
-    background: linear-gradient(135deg, #d48bff, #00d4ff);
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #d48bff, #66e5ff);
     background-attachment: fixed;
     margin: 24px;
     margin-top: 0;
@@ -20,7 +24,14 @@ body {
     display: flex;
     flex-direction: column;
     margin-top: 16px;
+    color: var(--main-font-color);
+    background-color: var(--main-content-color);
+    border-radius: var(--organic);
+    padding: 10px 25px 25px 25px;
+    padding-bottom: 30px;
+    line-height: 1.5
 }
+
 .maingrid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -28,6 +39,7 @@ body {
     gap: 16px;
     /* Needed to backfill alternating rows. */
     grid-auto-flow: dense;
+    word-break: break-word;
 }
 
 .maingrid p {
@@ -55,7 +67,7 @@ Swap the order for every other row. start with the second row (item 3), then ski
 
 .hero-text {
     margin: 0;
-    font-size: 140%;
+    font-size: 1.4rem;
 }
 
 .closet {
@@ -78,6 +90,7 @@ a {
 
 .home-link {
     font-weight: bold;
+    font-size: 1.5rem;
 }
 
 .social-link img {
@@ -101,6 +114,8 @@ a {
     display: flex;
     gap: 16px;
     margin-top: 16px;
+    font-size: 1.2rem;
+    font-weight: 600;
 }
 
 .nav-button {
@@ -154,7 +169,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 8px;
+    padding-top: 32px;
 }
 
 .sponsor-logo {
@@ -166,4 +181,8 @@ footer {
 hr {
     border: 1px solid var(--border-color);
     margin: 0 16px;
+}
+
+.organic-shape {
+    border-radius: var(--organic);
 }
