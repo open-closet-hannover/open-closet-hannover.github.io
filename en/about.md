@@ -12,5 +12,3 @@ It can be difficult to get such gear. It can be hard to know what size fits well
 We will be there and help you. You can talk to us about the gear. If you have questions, come to us. Maybe we can help you.
 
 We also collect donations. Maybe you have a product that you don’t need. Then you can give it to us. We will put it in the Queerpunkt. Then other people can try it out.
-
-Funded by @4generationde
